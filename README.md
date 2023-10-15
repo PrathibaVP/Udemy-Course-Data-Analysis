@@ -1,4 +1,4 @@
-# Udemy-Courses
+# Udemy-Course-Data-Analysis
 We will analyse and understand the courses offered in Udemy and visualize data through tools like seaborn and matplotlib.
 
 1.  parse_dates:  parse_dates parameter for read_csv which allows you to define the names of the columns you want to be treated as dates or datetimes:
